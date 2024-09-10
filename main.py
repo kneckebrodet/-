@@ -62,8 +62,8 @@ def MoveBack():
     sleep(0.2)
 
 # Network credentials
-ssid = '983B67CCD665-2G'
-password = '7f9ebg8rebprxa'
+ssid = '' ### fill in wifi name
+password = '' ### and password
 
 # Connect to WLAN
 wlan = network.WLAN(network.STA_IF)
