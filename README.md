@@ -7,5 +7,5 @@
 
 <div>
   <h2>youtube:</h2>
-  [![YouTube Video](https://img.youtube.com/vi/EzLEdOezbjk/0.jpg)](https://youtu.be/EzLEdOezbjk)
 </div>
+[![YouTube Video](https://img.youtube.com/vi/EzLEdOezbjk/0.jpg)](https://youtu.be/EzLEdOezbjk)
